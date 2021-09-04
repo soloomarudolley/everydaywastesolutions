@@ -1,0 +1,47 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "ews"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "EWS is a waste management company that is involved with waste collection, management and treatment"
+    meta_og_title = "Every Day Waste Management"
+    meta_og_type = "website"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = ""
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@everydaywastesolutions"
+    meta_twitter_creator = "@everydaywastesolutions"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
