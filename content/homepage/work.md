@@ -1,5 +1,5 @@
 ---
-title: 'We Help Business Grow'
+title: 'We keep the environment clean'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Work'
