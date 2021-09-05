@@ -5579,7 +5579,7 @@ ol {
 
 .logo-mobile {
   display: block;
-  width: 40px;
+  width: 100px;
   padding: 10px 0 10px 0; }
   @media (min-width: 576px) {
     .logo-mobile {
