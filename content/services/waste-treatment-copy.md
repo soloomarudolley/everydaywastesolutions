@@ -3,10 +3,10 @@ date = 2018-11-18T02:33:46Z
 draft = true
 featured = true
 heroBackground = "services/service2.jpg"
-heroHeading = "Waste Treatment"
-heroSubHeading = "We provide waste treatment services"
+heroHeading = "Waste-to-Energy"
+heroSubHeading = "We provide waste to energy services "
 icon = "services/service-icon-6.png"
-title = "Waste Treatment-(copy)"
+title = "Waste-to-Energy"
 weight = 2
 
 +++
