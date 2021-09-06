@@ -1,6 +1,5 @@
 +++
 date = 2018-11-18T02:33:46Z
-draft = true
 featured = true
 heroBackground = "services/service2.jpg"
 heroHeading = "Waste-to-Energy"
