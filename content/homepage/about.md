@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
-weight: 2
+title: Our Difference
+weight: "2"
 background: ''
-button: 'About Us'
-buttonLink: 'about'
----
+button: About Us
+buttonLink: about
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+---
+We focus is on providing sustainable waste management solutions in Liberia using an approach based on best practices for environmental resource management practiced in developed countries.
