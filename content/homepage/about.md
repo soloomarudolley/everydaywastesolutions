@@ -6,4 +6,4 @@ button: About Us
 buttonLink: about
 
 ---
-We focus is on providing sustainable waste management solutions in Liberia using an approach based on best practices for environmental resource management practiced in developed countries.
+We focus on providing sustainable waste management solutions in Liberia using an approach based on best practices for environmental resource management practiced in developed countries.
