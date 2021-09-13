@@ -1,6 +1,5 @@
 +++
 date = 2018-11-18T02:33:46Z
-draft = true
 featured = true
 heroBackground = "/uploads/evgeny-karchevsky-k1tuxfs8jyy-unsplash.jpg"
 heroHeading = "Clean water, sanitation and hygiene services"
