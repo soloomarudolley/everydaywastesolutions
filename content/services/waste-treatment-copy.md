@@ -2,10 +2,10 @@
 date = 2018-11-18T02:33:46Z
 featured = true
 heroBackground = "services/service2.jpg"
-heroHeading = "Waste-to-Energy"
-heroSubHeading = "We provide waste to energy services "
+heroHeading = "Industrial Services"
+heroSubHeading = "We provide Industrial Services"
 icon = "services/service-icon-6.png"
-title = "Waste-to-Energy"
+title = "Industrial Services"
 weight = 2
 
 +++

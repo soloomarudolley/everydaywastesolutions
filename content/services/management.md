@@ -1,14 +1,13 @@
 ---
-title: 'Waste Management'
-date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+title: 'Waste Management '
+date: 2018-11-28T15:14:39.000+10:00
+icon: services/service-icon-2.png
 featured: true
-draft: false
-heroHeading: 'Waste Management'
-heroSubHeading: 'We provide waste management services.'
-heroBackground: 'services/service2.jpg'
----
+heroHeading: Waste Transfer and Landfill Facility Management
+heroSubHeading: We provide waste transfer and Landfill facility management services.
+heroBackground: services/service2.jpg
 
+---
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada

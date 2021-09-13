@@ -1,15 +1,14 @@
 ---
-title: 'Waste Treatment'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-6.png'
-draft: false
+title: Residential/ Commercial Services
+date: 2018-11-18T12:33:46.000+10:00
+icon: services/service-icon-6.png
 featured: true
-weight: 2
-heroHeading: 'Waste Treatment'
-heroSubHeading: 'We provide waste treatment services'
-heroBackground: 'services/service2.jpg'
----
+weight: "2"
+heroHeading: Residential/ Commercial Services
+heroSubHeading: We provide Residential/ Commercial Services
+heroBackground: services/service2.jpg
 
+---
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva

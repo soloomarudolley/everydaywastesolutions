@@ -1,15 +1,14 @@
 ---
-title: 'Waste Collection'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
-draft: false
+title: Recyling
+date: 2018-11-18T12:33:46.000+10:00
+icon: services/service-icon-1.png
 featured: true
-weight: 1
-heroHeading: 'Waste Collection'
-heroSubHeading: 'We provide waste collection services'
-heroBackground: 'services/service1.jpg'
----
+weight: "1"
+heroHeading: Waste Treatment
+heroSubHeading: We provide recycling and waste to energy services
+heroBackground: services/service1.jpg
 
+---
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
