@@ -1,7 +1,7 @@
 +++
 date = 2018-11-18T02:33:46Z
 featured = true
-heroBackground = "services/service2.jpg"
+heroBackground = "/uploads/evgeny-karchevsky-k1tuxfs8jyy-unsplash.jpg"
 heroHeading = "Industrial Services"
 heroSubHeading = "We provide Industrial Services"
 icon = "services/service-icon-6.png"

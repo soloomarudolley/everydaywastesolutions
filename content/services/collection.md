@@ -6,7 +6,7 @@ featured: true
 weight: "1"
 heroHeading: Waste Treatment
 heroSubHeading: We provide recycling and waste to energy services
-heroBackground: services/service1.jpg
+heroBackground: "/uploads/sigmund-ai4rj-mw4i-unsplash.jpg"
 
 ---
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum

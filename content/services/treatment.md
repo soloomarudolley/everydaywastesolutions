@@ -6,7 +6,7 @@ featured: true
 weight: "2"
 heroHeading: Residential/ Commercial Services
 heroSubHeading: We provide Residential/ Commercial Services
-heroBackground: services/service2.jpg
+heroBackground: "/uploads/bernard-hermant-dclpetmvdk8-unsplash.jpg"
 
 ---
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,

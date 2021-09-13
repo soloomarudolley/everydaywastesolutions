@@ -5,7 +5,7 @@ icon: services/service-icon-2.png
 featured: true
 heroHeading: Waste Transfer and Landfill Facility Management
 heroSubHeading: We provide waste transfer and Landfill facility management services.
-heroBackground: services/service2.jpg
+heroBackground: "/uploads/michael-jin-et6_fdwzj2u-unsplash.jpg"
 
 ---
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
