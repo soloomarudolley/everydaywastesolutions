@@ -6,7 +6,7 @@ featured: true
 weight: "1"
 heroHeading: Waste Treatment
 heroSubHeading: We provide recycling and waste to energy services
-heroBackground: "/uploads/sigmund-ai4rj-mw4i-unsplash.jpg"
+heroBackground: ''
 
 ---
 Everyday Waste Solutions Inc is currently investigating and soliciting funding for recovery initiatives to recover recyclable materials such as Plastic, Paper & Card boards, Steel, Aluminum, Drink Cans and Food wastes MCC/PCC Waste Transfer Station facility.

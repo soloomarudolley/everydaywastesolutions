@@ -6,7 +6,7 @@ featured: true
 weight: "2"
 heroHeading: Residential/ Commercial Services
 heroSubHeading: We provide Residential/ Commercial Services
-heroBackground: "/uploads/bernard-hermant-dclpetmvdk8-unsplash.jpg"
+heroBackground: ''
 
 ---
 Our company provides prompt and effective waste collection and disposal services to residential apartments, hotels, restaurants, banks, lock-up shops and offices in Monrovia and its environs.
