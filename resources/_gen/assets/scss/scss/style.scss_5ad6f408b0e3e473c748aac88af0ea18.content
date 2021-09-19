@@ -5999,7 +5999,6 @@ ul.social {
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
-  background-blend-mode: overlay;
   background-color: #40aa78;
   height: 400px;
   position: relative;
@@ -6048,9 +6047,6 @@ ul.social {
 
 .hero-image-setheight {
   height: 460px; }
-
-.hero-image-blend-overlay {
-  background-blend-mode: overlay; }
 
 html {
   scroll-behavior: smooth; }
